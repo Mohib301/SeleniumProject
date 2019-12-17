@@ -12,7 +12,7 @@ public class AlertPractice {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		
+		//this is my first jenkins pipeline file
 		System.setProperty("webdriver.chrome.driver", "C:\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		//. browser manage commands:
