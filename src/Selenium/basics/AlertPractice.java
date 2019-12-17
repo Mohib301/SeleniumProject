@@ -13,6 +13,7 @@ public class AlertPractice {
 		// TODO Auto-generated method stub
 
 		//this is my first jenkins pipeline file
+		//this is my second jenkins practice
 		System.setProperty("webdriver.chrome.driver", "C:\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		//. browser manage commands:
